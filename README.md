@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsdl10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/omsdl10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/omsdl10/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/omsdl10/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Divide and Conquer
 |  |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omsdl10/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/omsdl10/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
