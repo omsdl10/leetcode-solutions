@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Design
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omsdl10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsdl10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/omsdl10/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
