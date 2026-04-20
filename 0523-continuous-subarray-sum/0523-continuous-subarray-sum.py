@@ -4,10 +4,12 @@ class Solution:
         summ=0
         for i in range(len(nums)):
             summ+=nums[i]
-            if summ%k not in dic:
-                dic[summ%k]=i
-            elif i-dic[summ%k]>=2:
-                    return True
+            remainder=summ%k
+            if remainder in dic:
+                if i-dic[remainder]>=2:
+                    return True 
+            else:
+                dic[remainder]=i
         return False
 
         
