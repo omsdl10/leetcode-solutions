@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/omsdl10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/omsdl10/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omsdl10/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Divide and Conquer
