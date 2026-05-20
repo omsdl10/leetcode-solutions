@@ -179,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0707-design-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/omsdl10/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0707-design-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
