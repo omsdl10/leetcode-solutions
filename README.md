@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omsdl10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omsdl10/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/omsdl10/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/omsdl10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/omsdl10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/omsdl10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
