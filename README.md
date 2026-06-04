@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/omsdl10/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/omsdl10/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omsdl10/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omsdl10/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0136-single-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/omsdl10/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omsdl10/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
