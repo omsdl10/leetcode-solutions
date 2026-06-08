@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/omsdl10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/omsdl10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/omsdl10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/omsdl10/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/omsdl10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/omsdl10/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/omsdl10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -357,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/omsdl10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/omsdl10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
