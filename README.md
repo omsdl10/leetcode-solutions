@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/omsdl10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/omsdl10/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/omsdl10/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omsdl10/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/omsdl10/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/omsdl10/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omsdl10/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/omsdl10/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
