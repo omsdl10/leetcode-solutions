@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omsdl10/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/omsdl10/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/omsdl10/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omsdl10/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/omsdl10/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/omsdl10/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
