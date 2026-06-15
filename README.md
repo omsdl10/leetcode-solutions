@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/omsdl10/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/omsdl10/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/omsdl10/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/omsdl10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/omsdl10/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/omsdl10/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/omsdl10/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/omsdl10/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
