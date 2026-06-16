@@ -1,16 +1,14 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        maxans=nums[0]
-        prefix=1
-        suffix=1
-        for i in range(len(nums)):
-            if prefix==0:
-                prefix=1
-            if suffix==0:
-                suffix=1
-            prefix=prefix*nums[i]
-            suffix=suffix*nums[len(nums)-i-1]
-            maxans=max(maxans,max(prefix,suffix))
-        return maxans
+        ans=nums[0]
+        max_num=nums[0]
+        min_num=nums[0]
+        for i in range(1,len(nums)):
+            maxnum=max(nums[i],nums[i]*max_num,nums[i]*min_num)
+            minnum=min(nums[i],nums[i]*max_num,nums[i]*min_num)
+            max_num=maxnum
+            min_num=minnum
+            ans=max(ans,max_num)
+        return ans
         
         
