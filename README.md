@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/omsdl10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/omsdl10/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/omsdl10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omsdl10/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/omsdl10/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/omsdl10/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/omsdl10/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
