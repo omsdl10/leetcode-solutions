@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/omsdl10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/omsdl10/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/omsdl10/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1732-find-the-highest-altitude](https://github.com/omsdl10/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omsdl10/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omsdl10/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omsdl10/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/omsdl10/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/omsdl10/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/omsdl10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/omsdl10/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
