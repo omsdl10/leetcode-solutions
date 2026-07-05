@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omsdl10/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omsdl10/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omsdl10/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/omsdl10/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omsdl10/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
