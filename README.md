@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/omsdl10/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/omsdl10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/omsdl10/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/omsdl10/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/omsdl10/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/omsdl10/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/omsdl10/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
