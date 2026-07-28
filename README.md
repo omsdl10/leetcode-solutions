@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omsdl10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/omsdl10/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omsdl10/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
