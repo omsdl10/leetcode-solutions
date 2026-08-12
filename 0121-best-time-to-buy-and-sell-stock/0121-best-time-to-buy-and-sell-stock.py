@@ -1,14 +1,11 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        array=[]
-        maxnumber=prices[-1]
-        for i in range(len(prices)-1,-1,-1):
-            num=max(maxnumber,prices[i])
-            array.append(num)
-            maxnumber=num
-        array.reverse()
+        minnumber=prices[0]
+        maxdiff=0
         for i in range(len(prices)):
-            prices[i]=array[i]-prices[i]
-        return max(prices)
-
-
+            if prices[i]<minnumber:
+                minnumber=prices[i]
+            diff=prices[i]-minnumber
+            maxdiff=max(diff,maxdiff)
+            
+        return maxdiff
