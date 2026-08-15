@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/omsdl10/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omsdl10/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/omsdl10/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1903-largest-odd-number-in-string](https://github.com/omsdl10/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/omsdl10/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omsdl10/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1903-largest-odd-number-in-string](https://github.com/omsdl10/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/omsdl10/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omsdl10/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omsdl10/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/omsdl10/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
