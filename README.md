@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omsdl10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/omsdl10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/omsdl10/leetcode-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/omsdl10/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/omsdl10/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omsdl10/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/omsdl10/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omsdl10/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Merge Sort
@@ -520,4 +523,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/omsdl10/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
