@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/omsdl10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/omsdl10/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omsdl10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/omsdl10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/omsdl10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/omsdl10/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/omsdl10/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/omsdl10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/omsdl10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/omsdl10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/omsdl10/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/omsdl10/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/omsdl10/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/omsdl10/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omsdl10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/omsdl10/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/omsdl10/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/omsdl10/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omsdl10/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omsdl10/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/omsdl10/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/omsdl10/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
