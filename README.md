@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omsdl10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omsdl10/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omsdl10/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/omsdl10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omsdl10/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/omsdl10/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/omsdl10/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omsdl10/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/omsdl10/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/omsdl10/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omsdl10/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/omsdl10/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omsdl10/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
