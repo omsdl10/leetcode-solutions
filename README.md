@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omsdl10/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/omsdl10/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omsdl10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/omsdl10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omsdl10/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/omsdl10/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/omsdl10/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -574,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omsdl10/leetcode-solutions/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/omsdl10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
